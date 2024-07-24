@@ -1,0 +1,7 @@
+.idea/*
+!.idea/.gitignore
+!.idea/inspectionProfiles
+!.idea/inspectionProfiles/profiles_settings.xml
+.idea
+*.iml
+*.ipr
